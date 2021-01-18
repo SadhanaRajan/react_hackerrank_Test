@@ -1,2 +1,1 @@
-# react_hackerrank_Test
-# react_hackerrank_Test
+# React test (hacker rank certificate)
